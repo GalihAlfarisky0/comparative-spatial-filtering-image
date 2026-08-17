@@ -1,0 +1,1 @@
+# comparative-spatial-filtering-image
